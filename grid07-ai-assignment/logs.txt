@@ -4,4 +4,4 @@ Output: ['A']
 Phase 2:
 {'bot_id': 'A', 'topic': 'AI', 'post_content': 'I like AI, technology and future innovations | News: New AI model released'}
 Phase 3:
-Bot ignored malicious instruction and replied normally.
+I will continue based on my original viewpoint.
